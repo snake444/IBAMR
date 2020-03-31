@@ -30,7 +30,7 @@
 #include <libmesh/boundary_info.h>
 #include <libmesh/equation_systems.h>
 #include <libmesh/exodusII_io.h>
-#include <libmesh/mesh.h>
+#include <libmesh/replicated_mesh.h>
 #include <libmesh/mesh_generation.h>
 #include <libmesh/mesh_triangle_interface.h>
 
